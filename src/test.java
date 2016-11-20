@@ -9,6 +9,7 @@ public class test
 
 	    String version2 = "v10";
 	    System.out.println("v" + (Integer.parseInt(version2.replaceAll("[^0-9]", "")) - 1));
+	    // simple changes
 	    
 	    
 	    String oldVersion = "v13";
